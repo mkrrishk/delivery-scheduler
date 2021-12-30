@@ -2,6 +2,10 @@
 
 Delivery Scheduler App built using React
 
+## Demo
+
+<https://delivery-scheduler.vercel.app/>
+
 ## Tech Stack
 
 * React
