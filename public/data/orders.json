@@ -1,0 +1,153 @@
+{
+  "Monday": [
+    {
+      "date": null,
+      "time": "12:30",
+      "orderId": "123",
+      "customerId": "a-111"
+    },
+    {
+      "date": null,
+      "time": "12:30",
+      "orderId": "223",
+      "customerId": "a-211"
+    },
+    {
+      "date": null,
+      "time": "12:30",
+      "orderId": "323",
+      "customerId": "a-311"
+    },
+    {
+      "date": null,
+      "time": "18:30",
+      "orderId": "423",
+      "customerId": "a-411"
+    },
+    {
+      "date": null,
+      "time": "18:30",
+      "orderId": "523",
+      "customerId": "a-511"
+    },
+    {
+      "date": null,
+      "time": "18:30",
+      "orderId": "623",
+      "customerId": "a-611"
+    },
+    {
+      "date": null,
+      "time": "18:30",
+      "orderId": "723",
+      "customerId": "a-711"
+    }
+  ],
+  "Tuesday": [
+    {
+      "date": null,
+      "time": "10:30",
+      "orderId": "123",
+      "customerId": "a-111"
+    },
+    {
+      "date": null,
+      "time": "10:30",
+      "orderId": "223",
+      "customerId": "a-211"
+    }
+  ],
+  "Wednesday": [
+    {
+      "date": null,
+      "time": "10:30",
+      "orderId": "123",
+      "customerId": "a-111"
+    },
+    {
+      "date": null,
+      "time": "10:30",
+      "orderId": "223",
+      "customerId": "a-211"
+    },
+    {
+      "date": null,
+      "time": "12:30",
+      "orderId": "323",
+      "customerId": "a-311"
+    },
+    {
+      "date": null,
+      "time": "12:30",
+      "orderId": "423",
+      "customerId": "a-411"
+    }
+  ],
+  "Thursday": [
+    {
+      "date": null,
+      "time": "12:30",
+      "orderId": "123",
+      "customerId": "a-111"
+    },
+    {
+      "date": null,
+      "time": "12:30",
+      "orderId": "223",
+      "customerId": "a-211"
+    }
+  ],
+  "Friday": [
+    {
+      "date": null,
+      "time": "10:30",
+      "orderId": "123",
+      "customerId": "a-111"
+    },
+    {
+      "date": null,
+      "time": "10:30",
+      "orderId": "223",
+      "customerId": "a-211"
+    },
+    {
+      "date": null,
+      "time": "12:30",
+      "orderId": "323",
+      "customerId": "a-311"
+    },
+    {
+      "date": null,
+      "time": "12:30",
+      "orderId": "423",
+      "customerId": "a-411"
+    },
+    {
+      "date": null,
+      "time": "18:30",
+      "orderId": "523",
+      "customerId": "a-511"
+    },
+    {
+      "date": null,
+      "time": "18:30",
+      "orderId": "623",
+      "customerId": "a-611"
+    }
+  ],
+  "Saturday": [
+    {
+      "date": null,
+      "time": "18:30",
+      "orderId": "123",
+      "customerId": "a-111"
+    },
+    {
+      "date": null,
+      "time": "18:30",
+      "orderId": "223",
+      "customerId": "a-211"
+    }
+  ],
+  "Sunday": []
+}
