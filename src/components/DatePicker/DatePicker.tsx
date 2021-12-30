@@ -22,7 +22,7 @@ const DatePicker = ({ title, minDate, maxDate, onDateChange }: DatePickerProps) 
         id="date-input"
         min={minDate}
         max={maxDate}
-        // onKeyDown={(event) => event.preventDefault()}
+        onKeyDown={(event) => event.preventDefault()}
         onChange={handleChange}
       />
     </div>
